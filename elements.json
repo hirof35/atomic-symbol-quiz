@@ -1,0 +1,8 @@
+[
+    { "number": 1, "symbol": "H", "name": "水素", "category": "非金属" },
+    { "number": 2, "symbol": "He", "name": "ヘリウム", "category": "貴ガス" },
+    { "number": 3, "symbol": "Li", "name": "リチウム", "category": "アルカリ金属" },
+    { "number": 4, "symbol": "Be", "name": "ベリリウム", "category": "アルカリ土類金属" },
+    { "number": 26, "symbol": "Fe", "name": "鉄", "category": "遷移金属" },
+    { "number": 79, "symbol": "Au", "name": "金", "category": "遷移金属" }
+  ]
